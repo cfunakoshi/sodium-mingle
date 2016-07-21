@@ -1,0 +1,41 @@
+
+body {
+  margin: 0;
+  height: 100%;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+#wrapper {
+ min-height: 100%;
+}
+
+.container {
+  width: 100%;
+}
+
+a {
+  color: #00B7FF;
+  cursor: pointer;
+}
+
+.nav >li >a {
+  padding-top: 23px;
+  padding-bottom: 23px;
+}
+
+ul {
+  text-align: center;
+}
+
+li {
+  float: none;
+  display: inline-block;
+}
+
+li a {
+  color: #000084;
+}
+
+li a:hover {
+  color: #FF2400;
+}
